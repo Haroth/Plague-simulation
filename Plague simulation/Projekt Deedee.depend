@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1534079193 source:d:\programy\projekt deedee\czlowiek.cpp
+	"Czlowiek.h"
+	<cstdlib>
+
+1534079123 source:d:\programy\projekt deedee\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<fstream>
+	"Czlowiek.h"
+	"Budynek.h"
+	"Miasto.h"
+
+1534078723 d:\programy\projekt deedee\czlowiek.h
+	<iostream>
+
+1534079909 d:\programy\projekt deedee\budynek.h
+	<iostream>
+	<vector>
+	"Czlowiek.h"
+
+1461925284 d:\programy\projekt deedee\miasto.h
+
+1461925294 source:d:\programy\projekt deedee\miasto.cpp
+
+1534079864 source:d:\programy\projekt deedee\budynek.cpp
+	"Budynek.h"
+	<iomanip>
+	<typeinfo>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<fstream>
+
+1462563400 source:d:\programy cpp\projekt deedee\budynek.cpp
+	"Budynek.h"
+	<iomanip>
+	<typeinfo>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1462566221 d:\programy cpp\projekt deedee\budynek.h
+	<iostream>
+	<vector>
+	"Czlowiek.h"
+
+1462287180 d:\programy cpp\projekt deedee\czlowiek.h
+	<iostream>
+
+1462563554 source:d:\programy cpp\projekt deedee\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	"Czlowiek.h"
+	"Budynek.h"
+	"Miasto.h"
+
+1461925284 d:\programy cpp\projekt deedee\miasto.h
+
+1461925294 source:d:\programy cpp\projekt deedee\miasto.cpp
+
+1462555697 source:d:\programy cpp\projekt deedee\czlowiek.cpp
+	"Czlowiek.h"
+	<cstdlib>
+
