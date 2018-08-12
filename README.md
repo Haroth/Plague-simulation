@@ -6,9 +6,9 @@ This project is trying to simulate the development of plague in the city. It is 
 
 The simulation is contained in the loop and it iterates through each cell. Software was built with polymorphism, that is why loop interation is regardless of whether it is a house or a well. The population of the city is exposed to sick individuals and contaminated wells. Then people can get sick and afterwards they can die or they have a chance to get cured. To make the simulation more realistic, houses with sick people can be closed in quarantine mode. Logs of the simulation can be written in the file.
 
-![](Screen/Plague.png)
-![]("Screen/Plague.png")
-<img src="Screen/Plague.png" alt="Screen">
+![](Screen/Plague.PNG)
+![]("Screen/Plague.PNG")
+<img src="Screen/Plague.PNG" alt="Screen">
 
 ## Technologies
 
